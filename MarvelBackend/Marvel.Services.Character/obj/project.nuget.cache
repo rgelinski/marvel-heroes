@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "60Xjx1yNi7K9oMzbS30YI6ouez/N+k73X6jABTq4SMPtaW8b9x+mc0pFQTyWue7JkJ6392sy05doRxy2n3fzxg==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Sourcecode\\marvel-heroes\\MarvelBackend\\Marvel.Services.Character\\Marvel.Character.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael Gelinski\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

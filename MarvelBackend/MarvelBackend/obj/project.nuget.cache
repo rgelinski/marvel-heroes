@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mTfs6ZkbfT61UqP9GqMQKulP6Mg1FoJCdKjxzfvfKVwiJ2kuJmsiRkDGb02hhj1SbhMP48oi0UV8wIxToXRWGw==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Sourcecode\\marvel-heroes\\MarvelBackend\\MarvelBackend\\MarvelBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael Gelinski\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Rafael Gelinski\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rafael Gelinski\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

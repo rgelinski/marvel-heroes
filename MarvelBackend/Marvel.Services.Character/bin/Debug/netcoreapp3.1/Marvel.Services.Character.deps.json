@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Marvel.Services.Character/1.0.0": {
+        "dependencies": {
+          "Marvel.Services": "1.0.0"
+        },
+        "runtime": {
+          "Marvel.Services.Character.dll": {}
+        }
+      },
+      "Marvel.Services/1.0.0": {
+        "runtime": {
+          "Marvel.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Marvel.Services.Character/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Marvel.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

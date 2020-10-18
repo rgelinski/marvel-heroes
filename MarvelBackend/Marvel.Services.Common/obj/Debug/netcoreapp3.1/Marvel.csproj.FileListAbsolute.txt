@@ -1,0 +1,9 @@
+D:\OneDrive\Sourcecode\marvel-heroes\MarvelBackend\Marvel.Services.Common\bin\Debug\netcoreapp3.1\Marvel.deps.json
+D:\OneDrive\Sourcecode\marvel-heroes\MarvelBackend\Marvel.Services.Common\bin\Debug\netcoreapp3.1\Marvel.dll
+D:\OneDrive\Sourcecode\marvel-heroes\MarvelBackend\Marvel.Services.Common\bin\Debug\netcoreapp3.1\Marvel.pdb
+D:\OneDrive\Sourcecode\marvel-heroes\MarvelBackend\Marvel.Services.Common\obj\Debug\netcoreapp3.1\Marvel.csprojAssemblyReference.cache
+D:\OneDrive\Sourcecode\marvel-heroes\MarvelBackend\Marvel.Services.Common\obj\Debug\netcoreapp3.1\Marvel.AssemblyInfoInputs.cache
+D:\OneDrive\Sourcecode\marvel-heroes\MarvelBackend\Marvel.Services.Common\obj\Debug\netcoreapp3.1\Marvel.AssemblyInfo.cs
+D:\OneDrive\Sourcecode\marvel-heroes\MarvelBackend\Marvel.Services.Common\obj\Debug\netcoreapp3.1\Marvel.csproj.CoreCompileInputs.cache
+D:\OneDrive\Sourcecode\marvel-heroes\MarvelBackend\Marvel.Services.Common\obj\Debug\netcoreapp3.1\Marvel.dll
+D:\OneDrive\Sourcecode\marvel-heroes\MarvelBackend\Marvel.Services.Common\obj\Debug\netcoreapp3.1\Marvel.pdb

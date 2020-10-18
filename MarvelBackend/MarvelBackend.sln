@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelBackend", "MarvelBackend\MarvelBackend.csproj", "{37102AAD-E96C-44C6-ABC6-AD00915B1666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMarvelApi", "UnitTestMarvelApi\UnitTestMarvelApi.csproj", "{92B1207D-2CD5-489A-B25F-D33867658974}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{50512F8D-714E-4594-98EC-6F2B22113CCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{7CFF7E77-1E08-4654-8EEC-298B6749F8D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{6B4A8578-E180-4936-ADB5-08BD93386A5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvel", "Marvel.Services.Common\Marvel.csproj", "{83471DB5-F417-4279-94F6-D5863527655B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvel.Character", "Marvel.Services.Character\Marvel.Character.csproj", "{AF8B7B4B-5034-4F36-9BB7-142AE494BE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37102AAD-E96C-44C6-ABC6-AD00915B1666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37102AAD-E96C-44C6-ABC6-AD00915B1666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37102AAD-E96C-44C6-ABC6-AD00915B1666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37102AAD-E96C-44C6-ABC6-AD00915B1666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B1207D-2CD5-489A-B25F-D33867658974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B1207D-2CD5-489A-B25F-D33867658974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B1207D-2CD5-489A-B25F-D33867658974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B1207D-2CD5-489A-B25F-D33867658974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83471DB5-F417-4279-94F6-D5863527655B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83471DB5-F417-4279-94F6-D5863527655B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83471DB5-F417-4279-94F6-D5863527655B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83471DB5-F417-4279-94F6-D5863527655B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8B7B4B-5034-4F36-9BB7-142AE494BE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8B7B4B-5034-4F36-9BB7-142AE494BE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8B7B4B-5034-4F36-9BB7-142AE494BE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8B7B4B-5034-4F36-9BB7-142AE494BE52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37102AAD-E96C-44C6-ABC6-AD00915B1666} = {7CFF7E77-1E08-4654-8EEC-298B6749F8D1}
+		{92B1207D-2CD5-489A-B25F-D33867658974} = {50512F8D-714E-4594-98EC-6F2B22113CCA}
+		{83471DB5-F417-4279-94F6-D5863527655B} = {6B4A8578-E180-4936-ADB5-08BD93386A5D}
+		{AF8B7B4B-5034-4F36-9BB7-142AE494BE52} = {6B4A8578-E180-4936-ADB5-08BD93386A5D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB6CA2D-2E61-4CA9-8B34-EF5F969ACEB8}
+	EndGlobalSection
+EndGlobal
