@@ -8,16 +8,11 @@ Para executar é necessário instalar o orquestrador Docker Desktop, ou outro si
 
 O serviço serve como modelo de implementação para serviço de API.
 
-Endpoints a serem implementados:
+## Endpoints a serem implementados:
 
-/v1/public/characters
-
-/v1/public/characters/{characterId}
-
-/v1/public/characters/{characterId}/comics
-
-/v1/public/characters/{characterId}/events
-
-/v1/public/characters/{characterId}/series
-
-/v1/public/characters/{characterId}/stories
+* `/v1/public/characters`
+* `/v1/public/characters/{characterId}`
+* `/v1/public/characters/{characterId}/comics`
+* `/v1/public/characters/{characterId}/events`
+* `/v1/public/characters/{characterId}/series`
+* `/v1/public/characters/{characterId}/stories`
