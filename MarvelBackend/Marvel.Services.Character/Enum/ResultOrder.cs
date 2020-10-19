@@ -2,7 +2,7 @@
 
 namespace Marvel.Services.Character.Enum
 {
-    public enum EnumResultOrder
+    public enum ResultOrder
     {
         [Display(Name = "name")]
         Name = 0,

@@ -20,7 +20,7 @@ namespace MarvelBackend.Controllers
                                                         [FromQuery] string series,
                                                         [FromQuery] string events,
                                                         [FromQuery] string stories,
-                                                        [FromQuery] EnumResultOrder orderBy,
+                                                        [FromQuery] ResultOrder orderBy,
                                                         [FromQuery] int limit,
                                                         [FromQuery] int offset)
         {
