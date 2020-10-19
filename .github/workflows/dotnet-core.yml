@@ -18,8 +18,8 @@ jobs:
       with:
         dotnet-version: 3.1.403
     - name: Install dependencies
-      run: dotnet restore .\MarvelBackend\
+      run: dotnet restore MarvelBackend
     - name: Build
-      run: dotnet build .\MarvelBackend\ --configuration Release --no-restore
+      run: dotnet build MarvelBackend --configuration Release --no-restore
     - name: Test
-      run: dotnet test .\MarvelBackend\ --no-restore --verbosity normal
+      run: dotnet test MarvelBackend --no-restore --verbosity normal
